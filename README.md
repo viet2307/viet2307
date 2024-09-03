@@ -20,6 +20,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=viet2307&theme=oldie&column=5&margin-w=10&margin-h=10" />
   </a>
   <a href="https://github.com/viet2307/github-readme-stats">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/?username=viet2307&margin=10" />
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/?username=viet2307&margin=10" />
   </a>
 </div>
